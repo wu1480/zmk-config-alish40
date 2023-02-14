@@ -14,5 +14,4 @@
                 &kp LCTRL   &kp LGUI   &kpLALT   &kp SPACE   &kp SPACE   &kp RALT   &kp RGUI   &kp RCTRL
             >;
         };
-    };
-};  
+    };  
