@@ -1,5 +1,5 @@
 if SHIELD_ALISH40
-        
+
 config ZMK_KEYBOARD_NAME
     default "Alish40"
 
